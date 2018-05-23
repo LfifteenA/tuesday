@@ -30,4 +30,4 @@ quarterly_task: Put a SMALL amount of mineral oil on a piece of paper and run it
 * <https://www.yelp.com/biz/the-shredding-place-torrance>
 * <https://www.yelp.com/biz/the-shredders-commerce>
 * <https://www.yelp.com/biz/shredsource-los-angeles-2>
-* https://www.staples.com/sbd/cre/products/copy-and-print/160509/54368/index.html
+* <https://www.staples.com/sbd/cre/products/copy-and-print/160509/54368/index.html>
