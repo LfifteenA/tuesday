@@ -14,7 +14,7 @@ quarterly_task: Put a SMALL amount of mineral oil on a piece of paper and run it
 
 ## Getting Started
 
-* Buy a cross cutting shredder.
+* Buy a cross cutting shredder. Or a micro cut shredder.
 * If dealing with a big back log, consider a service. Unless you're seriously a target the bin at the UPS store should be just fine, but there are other services you'd just be more comfortable witnessing the shredding yourself.
 * If you have binders and notebooks, STAPLES offers a service which will take care of large amounts of bulky items (priced by weight of items): 
 >Per Staples: Shred papers, envelopes, file folders and spiral-bound notebooks. 
